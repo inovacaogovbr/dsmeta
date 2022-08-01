@@ -13,7 +13,7 @@ type Props = {
         .then(response => {
             toast.info("SMS enviado com sucesso");
         
-        })
+        });
         
     }
 
